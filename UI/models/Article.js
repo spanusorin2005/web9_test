@@ -12,4 +12,5 @@ Article.prototype.update = function(data){
     
     
     ///play with Git
+      //This code is added only on feature_update_article branch
 };
