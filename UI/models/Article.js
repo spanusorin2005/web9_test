@@ -9,4 +9,7 @@ function Article(options){
 Article.prototype.update = function(data){
     //here we should save the data to the server
     //do an AJAX request or save it in the local storage
+    
+    
+    ///play with Git
 };
